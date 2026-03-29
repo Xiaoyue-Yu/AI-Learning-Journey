@@ -1,4 +1,6 @@
 #  AI Learning Journey
+[EN](./README.md) | [中文](./AI_Learning_Journey_zh.md)
+
 Documenting my journey from Machine Learning basics to applied LLMs, AI Agents, and Vibe Coding.
 
 ##  About Me
