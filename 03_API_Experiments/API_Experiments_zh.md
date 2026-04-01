@@ -1,11 +1,25 @@
 # API 实验
 
-本模块用于记录 AI 相关 API 的实践过程与实验结论。  
-重点是通过动手编码理解接口调用、参数设计、错误处理与性能优化。
+[EN](./README.md) | [中文](./API_Experiments_zh.md)
 
-后续将持续补充：
+本模块用于记录 AI 相关 API 的实践过程与实验结论，重点是通过动手编码理解接口调用、参数设计、错误处理与性能优化。
 
-- 不同模型 API 的调用方式与差异
-- Prompt 与参数调优实验
-- 响应质量评估与日志分析
-- 端到端集成小实验
+## 项目结构
+
+```
+📁 03_API_Experiments/
+ ├── 📄 01_API_Basics.md
+ ├── 📄 02_OpenRouter_Test.py
+ ├── 📄 03_JSON_Mode.py
+ ├── 📄 requirements.txt
+ ├── 📄 .env.example
+ └── 📄 .gitignore
+```
+
+## 快速开始
+
+1. `python -m venv .venv` 并激活虚拟环境。
+2. `pip install -r requirements.txt`
+3. 复制 `.env.example` 为 `.env`，填写 `OPENROUTER_API_KEY`。
+4. 运行 `python 02_OpenRouter_Test.py` 或 `python 03_JSON_Mode.py`。
+
