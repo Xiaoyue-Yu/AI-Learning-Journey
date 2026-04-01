@@ -8,9 +8,9 @@ I am a Junior at the **University of Pittsburgh**, majoring in **Information Sci
 
 ##  Repository Structure
 
-This repository serves as my "second brain" for AI concepts and hands-on engineering experiments. It is divided into the following sections:
+This repository serves as my diary for AI concepts and hands-on engineering experiments. It is divided into the following sections:
 
-- **`/01_Core_Concepts`**: Breaking down the mental models.
+- **`/01_Core_Concepts`**: Breaking down the differrent concepts about AI.
 
 - **`/02_Tooling_and_Workflows`**: Mastering AI-assisted software engineering.
 
@@ -19,7 +19,7 @@ This repository serves as my "second brain" for AI concepts and hands-on enginee
 - **`/04_Mini_Projects`**: Small, practical applications combining my IE/Data background with AI capabilities.
 
 ##  Current Focus
-- [ ] Deep diving into the underlying logic of AI Agents vs. standard LLMs.
+Deep diving into the underlying logic of AI Agents vs. standard LLMs.
 
 ---
 *Continuously learning, building, and committing. Open to 2026/2027 internship opportunities in tech and data engineering!*
