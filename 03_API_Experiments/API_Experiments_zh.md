@@ -10,7 +10,7 @@
 📁 03_API_Experiments/
  ├── 📄 01_API_Basics.md
  ├── 📄 02_OpenRouter_Test.py
- ├── 📄 03_JSON_Mode.py
+ ├── 📄 03_Structured_Output.py
  ├── 📄 requirements.txt
  ├── 📄 .env.example
  └── 📄 .gitignore
@@ -21,5 +21,5 @@
 1. `python -m venv .venv` 并激活虚拟环境。
 2. `pip install -r requirements.txt`
 3. 复制 `.env.example` 为 `.env`，填写 `OPENROUTER_API_KEY`。
-4. 运行 `python 02_OpenRouter_Test.py` 或 `python 03_JSON_Mode.py`。
+4. 运行 `python 02_OpenRouter_Test.py` 或 `03_Structured_Output.py`。
 
