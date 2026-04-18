@@ -65,7 +65,7 @@ Deep Learning is a **subset** of Machine Learning based on multi-layer neural ne
 - In practice: AI is the broad field, ML is a core approach, and DL powers many state-of-the-art AI systems.
 
 
-## The GenAI Era (生成式 AI 与 LLM)
+## The GenAI Era 
 
 ### 4. GenAI & LLMs (Generative AI & Large Language Models)
 

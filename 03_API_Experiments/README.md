@@ -10,7 +10,7 @@ Hands-on scripts and notes for calling LLM APIs.
 📁 03_API_Experiments/
  ├── 📄 01_API_Basics.md
  ├── 📄 02_OpenRouter_Test.py
- ├── 📄 03_JSON_Mode.py
+ ├── 📄 03_Structured_Output.py
  ├── 📄 requirements.txt
  ├── 📄 .env.example
  └── 📄 .gitignore
@@ -21,4 +21,4 @@ Hands-on scripts and notes for calling LLM APIs.
 1. `python -m venv .venv` then activate it.
 2. `pip install -r requirements.txt`
 3. Copy `.env.example` to `.env` and set `OPENROUTER_API_KEY`.
-4. Run `python 02_OpenRouter_Test.py` or `python 03_JSON_Mode.py`.
+4. Run `python 02_OpenRouter_Test.py` or `03_Structured_Output.py`.

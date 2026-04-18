@@ -8,10 +8,7 @@ This section covers AI-assisted software engineering: tools, prompts, and repeat
 
 **Cursor (write code / take notes) + GitHub Desktop (review red/green diffs and commit) = safe and efficient.**
 
-## 2. Must-Have Cursor "Skills"
+## 2. Prompt Engineering
 
-### @ Context (pinpoint context)
-
-- **How to use:** In the Cursor chat, type `@` to reference a specific file or an entire folder.
-- **Why it helps:** The model stops guessing; it answers or edits based on the files you specify.
+See Prompt_Engineering.md file.
 
