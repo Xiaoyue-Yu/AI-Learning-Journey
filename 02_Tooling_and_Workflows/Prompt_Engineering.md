@@ -31,6 +31,30 @@ This section contains my study notes for *"ChatGPT Prompt Engineering for Develo
 * Hallucination: Makes statements that sound plausible but are not true
   * How to reduce: First find relevant information, then answer the question based on the relevant information
 
+## 4. Iterative Prompt Development
+* Prompt Guidelines
+  * Be clear and specific
+  * Analyze why result does not give desired output
+  * Refine the idea and the prompt
+  * Repeat
+
+* Iterative Process
+  * Try something
+  * Analyze where the result does not give what you want
+  * Clarify instructions, give more time to think
+  * Refine prompts with a batch examples
+
+## 5. Summarizing (总结)
+* Facilitates the organization of user comments within apps or websites -> Reducing reading time and better for data analysis
+
+## 6. Inferring (推理)
+By using prompts, we can rapidly construct inferences regarding complex natural language.
+
+* Extract emotion/topic information
+* Generate output in a more robust JSON format
+
+
+
 
 
    
