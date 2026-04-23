@@ -53,6 +53,19 @@ By using prompts, we can rapidly construct inferences regarding complex natural 
 * Extract emotion/topic information
 * Generate output in a more robust JSON format
 
+## 7. Transforming
+Use LLM to translate, do tones / formats transformation, and spell and grammar checking.
+
+## 8. Expanding
+Expand a shorter text to a longer text (email, essay).
+
+* Parameter: temperature
+  * randomness of the model.
+  * temperature is higher means more random response.
+  * If we want to build a system **more reliable and predictable**: use temp = 0; **more creative and require variety**: use temp > 0
+
+## 9. Chatbots
+
 
 
 
