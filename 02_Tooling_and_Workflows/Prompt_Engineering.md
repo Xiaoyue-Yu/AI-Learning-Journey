@@ -65,9 +65,10 @@ Expand a shorter text to a longer text (email, essay).
   * If we want to build a system **more reliable and predictable**: use temp = 0; **more creative and require variety**: use temp > 0
 
 ## 9. Chatbots
-* User message: input
-* Assistant message: output
-* System message: sets behavior of assistant
+* Message
+  * User message: input
+  * Assistant message: output
+  * System message: sets behavior of assistant
 
 
 
