@@ -1,10 +1,10 @@
 #  AI Learning Journey
 [EN](./README.md) | [中文](./AI_Learning_Journey_zh.md)
 
-Documenting my journey from Machine Learning basics to applied LLMs, AI Agents, and Vibe Coding.
+Documenting my journey from Machine Learning basics to applied LLMs, AI Agents, and AI Engineering.
 
 ##  About Me
-I am a Junior at the **University of Pittsburgh**, majoring in **Information Science & Industrial Engineering**. I am passionate about bridging the gap between traditional system optimization and cutting-edge AI tools to solve real-world, complex data problems.
+I am a senior undergraduate student at the **University of Pittsburgh**, majoring in **Information Science & Industrial Engineering**. I am passionate about bridging the gap between traditional system optimization and cutting-edge AI tools to solve real-world, complex data problems.
 
 ##  Repository Structure
 
