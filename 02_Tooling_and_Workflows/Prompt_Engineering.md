@@ -44,10 +44,10 @@ This section contains my study notes for *"ChatGPT Prompt Engineering for Develo
   * Clarify instructions, give more time to think
   * Refine prompts with a batch examples
 
-## 5. Summarizing (总结)
+## 5. Summarizing
 * Facilitates the organization of user comments within apps or websites -> Reducing reading time and better for data analysis
 
-## 6. Inferring (推理)
+## 6. Inferring
 By using prompts, we can rapidly construct inferences regarding complex natural language.
 
 * Extract emotion/topic information

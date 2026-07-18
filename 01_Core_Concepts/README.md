@@ -1,5 +1,4 @@
 # Core Concepts
-[EN](./README.md) | [中文](./AI_Concepts_zh.md)
 
 ## The Foundations
 
@@ -109,7 +108,7 @@ The standard formula for an Agent is: **Agent = LLM + Memory + Planning + Tools*
 
 #### 5.2. Skills / Tools
 Skills (or Tools) are the "hands" of the Agent. Because an LLM alone cannot calculate math accurately or browse today's news, we give it APIs (interfaces) to call. 
-Reference video: [《【闪客】一口气拆穿Skill/MCP/RAG/Agent/OpenClaw底层逻辑》](https://www.bilibili.com/video/BV1ojfDBSEPv?vd_source=7ec1163e22daf4515c09a5b6d9b99bae)  
+Reference video: [Skill/MCP/RAG/Agent/OpenClaw explainer](https://www.bilibili.com/video/BV1ojfDBSEPv?vd_source=7ec1163e22daf4515c09a5b6d9b99bae)  
 <img src="./01_agent/01_agent.jpg" alt="Skill/MCP/RAG/Agent/OpenClaw explainer" style="max-width: 100%;" />
 
 ##### 5.2.1 Context Prompts

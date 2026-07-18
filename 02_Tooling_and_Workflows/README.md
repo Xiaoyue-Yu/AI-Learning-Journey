@@ -1,7 +1,5 @@
 # Tooling and Workflows
 
-[EN](./README.md) | [中文](./Tooling_and_Workflows_zh.md)
-
 This section covers AI-assisted software engineering: tools, prompts, and repeatable workflows.
 
 ## 1. My Workflow
